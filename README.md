@@ -27,7 +27,7 @@ This project involves cleaning, transforming, and analysing raw e-commerce order
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
-|---|---|
+|------|---------|
 | **Python** (Pandas, NumPy, Matplotlib, Seaborn) | Data cleaning, transformation, feature engineering, EDA |
 | **Power BI** | Data modelling, DAX calculations, interactive dashboards |
 
@@ -99,6 +99,18 @@ Total Customers = DISTINCTCOUNT('ecommerce_orders_cleaned'[customer_id])
 │   └── Ecommerce_Project_Report_Document.pdf
 └── README.md
 ```
+
+## 👤 Author
+
+- **Maheswari Subash Balan**  
+- GitHub: [@Maheswari-SubashBalan](https://github.com/Maheswari-SubashBalan)
+
+---
+
+## 📄 License
+
+This project is for academic / educational purposes.  
+Dataset license: MIT (Hugging Face – millat/e-commerce-orders)
 
 ## 🏁 Conclusion
 
