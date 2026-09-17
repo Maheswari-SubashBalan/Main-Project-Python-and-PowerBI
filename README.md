@@ -91,7 +91,7 @@ Total Customers = DISTINCTCOUNT('ecommerce_orders_cleaned'[customer_id])
 │   ├── ecommerce_orders_raw.csv
 │   └── ecommerce_orders_cleaned.csv
 ├── notebooks/
-│   └── DA_Final_Project_Ecommerce_EDA.ipynb
+│   └── Maheswari_Main project.ipynb
 ├── powerbi/
 │   └── Ecommerce_Sales_Dashboard.pbix
 ├── report/
