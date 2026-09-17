@@ -1,7 +1,5 @@
-# Main-Project-Python-and-PowerBI
-An end-to-end E-Commerce Order Analytics project exploring sales performance, customer behavior, product trends, and operational insights through data cleaning, exploratory data analysis, and visualization.
-
-# E-Commerce Order Sales Analysis
+# PROJECT TITLE:
+## E-Commerce Order Sales Analysis
 
 Data Analytics Final Project using **Python** and **Power BI**
 
