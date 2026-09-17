@@ -44,9 +44,8 @@ This project involves cleaning, transforming, and analysing raw e-commerce order
 3. **Missing Value Treatment** — Categorical → mode; Numeric → median
 4. **Column Cleanup** — Dropped `billing_address` (duplicate of `shipping_address`)
 5. **Outlier Treatment** — IQR method applied to `price` and `quantity` (capped, not dropped)
-6. **Skewness Check** — No log transformation needed post-capping
-7. **Feature Engineering** — Created `total_amount`, `order_month`, `order_year`, `shipping_delay_days`, sort-key columns
-8. **EDA** — 10 visualizations (univariate, bivariate, multivariate) with business interpretation
+6. **Feature Engineering** — Created `total_amount`, `order_month`, `order_year`, `shipping_delay_days`, sort-key columns
+7. **EDA** — 10 visualizations (univariate, bivariate, multivariate) with business interpretation
 
 ## 📊 Power BI Dashboards
 
